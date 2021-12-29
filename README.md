@@ -1,3 +1,3 @@
 ## Scraping-job-posts-with-BeautifulSoup
 
-Just a demonstration of BeautifulSoup..
+Just a simple demonstration of BeautifulSoup..
